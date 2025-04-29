@@ -1,0 +1,101 @@
+Student_id,Student_name,Class,Section,Roll,Address,Guardian,Status
+TAM-1,Aritra Sen,6,B,11,"15A, Lake Gardens, Kolkata",Sushmita Sen,Active
+TAM-2,Ritika Das,7,A,5,"33, B.T. Road, Kolkata",Anirban Das,Active
+TAM-3,Soham Banerjee,8,C,3,"88, Behala, Kolkata",Pradip Banerjee,Active
+TAM-4,Sneha Mukherjee,9,D,7,"122, Jadavpur, Kolkata",Swagata Mukherjee,Inactive
+TAM-5,Rohan Roy,10,B,9,"41, Salt Lake Sector II, Kolkata",Pranab Roy,Active
+TAM-6,Tanaya Ghosh,6,A,1,"29, Garia, Kolkata",Rituparna Ghosh,Inactive
+TAM-7,Ankit Paul,7,C,6,"91, Kasba, Kolkata",Sudip Paul,Active
+TAM-8,Diya Dutta,8,B,12,"11, Barasat Road, Kolkata",Namita Dutta,Active
+TAM-9,Arnav Chatterjee,9,A,2,"47, Tollygunge, Kolkata",Manas Chatterjee,Inactive
+TAM-10,Mitali Sarkar,10,D,4,"53, Ultadanga, Kolkata",Soma Sarkar,Active
+TAM-11,Pratyush Sen,6,D,15,"25, Dum Dum, Kolkata",Debabrata Sen,Active
+TAM-12,Niharika Das,7,B,3,"17, Shyambazar, Kolkata",Tanmoy Das,Active
+TAM-13,Rajdeep Ghosh,8,A,8,"64, Rajarhat, Kolkata",Arpita Ghosh,Inactive
+TAM-14,Priya Mondal,9,B,10,"108, Howrah Maidan, Kolkata",Bidyut Mondal,Active
+TAM-15,Tuhin Dey,10,C,5,"99, Baguiati, Kolkata",Swapan Dey,Active
+TAM-16,Ishita Mitra,6,C,13,"82, Kalighat, Kolkata",Shampa Mitra,Active
+TAM-17,Debjit Pal,7,D,14,"66, Sealdah, Kolkata",Partha Pal,Active
+TAM-18,Shreya Nandi,8,D,6,"32, Lake Town, Kolkata",Rupali Nandi,Active
+TAM-19,Vikram Shaw,9,C,1,"13, New Alipore, Kolkata",Santanu Shaw,Inactive
+TAM-20,Ananya Bhattacharya,10,A,2,"5, Ballygunge, Kolkata",Ranjita Bhattacharya,Active
+TAM-21,Surajit Kar,6,A,4,"20, Chandni Chowk, Kolkata",Tarun Kar,Active
+TAM-22,Mousumi Sen,7,A,7,"77, Dum Dum Cantt., Kolkata",Sujata Sen,Inactive
+TAM-23,Aditya Naskar,8,B,10,"9, Sonarpur, Kolkata",Krishna Naskar,Active
+TAM-24,Laboni Halder,9,D,11,"14, Topsia, Kolkata",Ramesh Halder,Active
+TAM-25,Sagnik Pramanik,10,C,3,"38, Kankurgachi, Kolkata",Debashis Pramanik,Active
+TAM-26,Arjun Das,8,A,1,24A B. B. Ganguly Street,Mr. Sudipto Das,Active
+TAM-27,Riya Mukherjee,9,B,2,58A Lake Gardens,Mrs. Ananya Mukherjee,Active
+TAM-28,Soham Sen,10,C,3,14/2 Jadavpur Central Rd,Mr. Arindam Sen,Inactive
+TAM-29,Priya Roy,7,A,4,"101 Salt Lake, Sector 1",Mrs. Mita Roy,Active
+TAM-30,Abir Ghosh,6,B,5,3C Ballygunge Circular Rd,Mr. Anup Ghosh,Active
+TAM-31,Tanmay Chakraborty,12,A,27,"79 Jadavpur, Kolkata",Mrs. Arjun Debnath,Active
+TAM-32,Megha Mukherjee,6,D,21,"72 Tollygunge, Kolkata",Mrs. Arjun Saha,Active
+TAM-33,Rohan Kar,11,C,19,"19 Gariahat, Kolkata",Mr. Tuhin Ghosh,Active
+TAM-34,Aditya Saha,8,C,17,"91 Tollygunge, Kolkata",Mr. Deb Kar,Active
+TAM-35,Arjun Lahiri,6,D,20,"48 Lake Gardens, Kolkata",Mrs. Abir Mitra,Active
+TAM-36,Moumita Mitra,8,D,32,"171 Howrah, Kolkata",Mrs. Ishani Das,Active
+TAM-37,Ishani Roy,12,D,26,"123 Howrah, Kolkata",Mr. Aditya Sarkar,Active
+TAM-38,Deb Roy,10,B,31,"158 Howrah, Kolkata",Mrs. Abir Banerjee,Active
+TAM-39,Ritwik Sarkar,8,B,22,"131 Park Circus, Kolkata",Mr. Kunal Sen,Active
+TAM-40,Abir Das,9,D,16,"60 Howrah, Kolkata",Mr. Aditya Banerjee,Active
+TAM-41,Abir Kar,9,C,36,"128 Howrah, Kolkata",Mrs. Riya Bhattacharya,Active
+TAM-42,Megha Chakraborty,6,D,28,"139 Howrah, Kolkata",Mr. Aditya Chatterjee,Active
+TAM-43,Deb Saha,10,A,27,"85 Gariahat, Kolkata",Mr. Riya Bhattacharya,Active
+TAM-44,Moumita Debnath,6,A,31,"184 Dumdum, Kolkata",Mr. Megha Pal,Active
+TAM-45,Arjun Nandi,7,B,35,"114 Gariahat, Kolkata",Mr. Sneha Chakraborty,Inactive
+TAM-46,Soham Chakraborty,10,B,40,"149 Lake Gardens, Kolkata",Mr. Sneha Bhattacharya,Active
+TAM-47,Sneha Banerjee,8,D,3,"194 Howrah, Kolkata",Mrs. Srija Lahiri,Active
+TAM-48,Ishani Lahiri,10,D,33,"104 Dumdum, Kolkata",Mrs. Riya Debnath,Active
+TAM-49,Trisha Banerjee,8,C,7,"81 Tollygunge, Kolkata",Mr. Srija Chakraborty,Active
+TAM-50,Niharika Chakraborty,9,B,39,"125 Lake Gardens, Kolkata",Mr. Soham Dutta,Active
+TAM-51,Kunal Sen,9,A,18,"84 Salt Lake, Kolkata",Mr. Tanmay Mukherjee,Active
+TAM-52,Srija Dutta,11,B,7,"132 Park Circus, Kolkata",Mrs. Ananya Dutta,Active
+TAM-53,Tanmay Roy,7,C,29,"63 Jadavpur, Kolkata",Mr. Abir Roy,Active
+TAM-54,Moumita Ghosh,10,D,5,"57 Behala, Kolkata",Mrs. Priya Ghosh,Active
+TAM-55,Aditya Bhattacharya,8,A,11,"151 Gariahat, Kolkata",Mr. Ritwik Bhattacharya,Active
+TAM-56,Ishani Basu,12,C,13,"110 Ballygunge, Kolkata",Mrs. Megha Basu,Active
+TAM-57,Rohan Chatterjee,9,D,24,"145 Howrah, Kolkata",Mr. Kunal Chatterjee,Active
+TAM-58,Trisha Mitra,6,B,36,"71 Salt Lake, Kolkata",Mrs. Sneha Mitra,Active
+TAM-59,Sneha Debnath,11,A,8,"92 Dumdum, Kolkata",Mr. Soham Debnath,Active
+TAM-60,Arjun Sarkar,7,D,20,"138 Ballygunge, Kolkata",Mr. Tuhin Sarkar,Active
+TAM-61,Priya Saha,8,B,10,"118 Jadavpur, Kolkata",Mrs. Ananya Saha,Active
+TAM-62,Riya Banerjee,6,C,15,"75 Behala, Kolkata",Mr. Soham Banerjee,Active
+TAM-63,Tuhin Pal,9,D,27,"163 Gariahat, Kolkata",Mr. Deb Pal,Inactive
+TAM-64,Niharika Mondal,11,A,4,"92 Salt Lake, Kolkata",Mrs. Moumita Mondal,Active
+TAM-65,Arjun Bhattacharya,7,B,12,"58 Ballygunge, Kolkata",Mr. Kunal Bhattacharya,Active
+TAM-66,Trisha Ghosh,10,C,21,"120 Dumdum, Kolkata",Mrs. Priya Ghosh,Active
+TAM-67,Sneha Chatterjee,12,D,17,"133 Tollygunge, Kolkata",Mr. Arindam Chatterjee,Active
+TAM-68,Soham Nandi,6,A,14,"186 Park Circus, Kolkata",Mr. Rohan Nandi,Active
+TAM-69,Ritwik Dutta,9,C,33,"106 Howrah, Kolkata",Mr. Abir Dutta,Active
+TAM-70,Megha Kar,8,A,26,"155 Lake Gardens, Kolkata",Mrs. Ananya Kar,Active
+TAM-71,Abir Basu,7,C,9,"99 Salt Lake, Kolkata",Mr. Tanmay Basu,Inactive
+TAM-72,Ananya Roy,10,B,2,"74 Ballygunge, Kolkata",Mrs. Ishani Roy,Active
+TAM-73,Tanmay Mitra,11,C,19,"178 Behala, Kolkata",Mr. Kunal Mitra,Active
+TAM-74,Moumita Chakraborty,6,D,31,"165 Jadavpur, Kolkata",Mrs. Srija Chakraborty,Active
+TAM-75,Ishani Debnath,8,A,18,"111 Howrah, Kolkata",Mr. Aditya Debnath,Inactive
+TAM-76,Rohan Ghosh,9,B,13,"142 Gariahat, Kolkata",Mr. Tuhin Ghosh,Active
+TAM-77,Srija Banerjee,7,A,23,"197 Park Circus, Kolkata",Mrs. Priya Banerjee,Active
+TAM-78,Aditya Sen,12,D,6,"87 Lake Gardens, Kolkata",Mr. Soham Sen,Active
+TAM-79,Megha Dutta,10,C,35,"166 Dumdum, Kolkata",Mrs. Riya Dutta,Active
+TAM-80,Deb Roy,11,B,7,"147 Howrah, Kolkata",Mr. Arjun Roy,Active
+TAM-81,Riya Sarkar,8,C,8,"93 Salt Lake, Kolkata",Mrs. Trisha Sarkar,Active
+TAM-82,Arjun Dutta,7,D,19,"136 Dumdum, Kolkata",Mr. Tuhin Dutta,Active
+TAM-83,Sneha Nandi,10,A,30,"188 Howrah, Kolkata",Mr. Soham Nandi,Active
+TAM-84,Ritwik Mukherjee,12,C,5,"127 Behala, Kolkata",Mrs. Priya Mukherjee,Active
+TAM-85,Trisha Pal,9,B,16,"101 Tollygunge, Kolkata",Mr. Abir Pal,Active
+TAM-86,Soham Sen,11,D,37,"73 Park Circus, Kolkata",Mr. Kunal Sen,Inactive
+TAM-87,Moumita Banerjee,6,A,28,"116 Jadavpur, Kolkata",Mrs. Megha Banerjee,Active
+TAM-88,Aditya Chatterjee,10,B,12,"66 Ballygunge, Kolkata",Mr. Deb Chatterjee,Inactive
+TAM-89,Ishani Mondal,7,C,6,"132 Gariahat, Kolkata",Mrs. Srija Mondal,Active
+TAM-90,Abir Bhattacharya,11,A,34,"144 Dumdum, Kolkata",Mr. Ritwik Bhattacharya,Active
+TAM-91,Priya Das,8,D,20,"158 Behala, Kolkata",Mr. Tanmay Das,Active
+TAM-92,Ananya Kar,9,A,11,"105 Ballygunge, Kolkata",Mrs. Sneha Kar,Active
+TAM-93,Tuhin Debnath,6,C,4,"109 Salt Lake, Kolkata",Mr. Rohan Debnath,Active
+TAM-94,Niharika Ghosh,10,C,24,"121 Jadavpur, Kolkata",Mrs. Ishani Ghosh,Active
+TAM-95,Kunal Saha,12,B,3,"190 Park Circus, Kolkata",Mr. Arjun Saha,Active
+TAM-96,Srija Mitra,11,A,14,"177 Howrah, Kolkata",Mrs. Riya Mitra,Inactive
+TAM-97,Deb Das,7,B,22,"138 Tollygunge, Kolkata",Mr. Aditya Das,Inactive
+TAM-98,Sneha Basu,6,D,13,"118 Ballygunge, Kolkata",Mr. Kunal Basu,Active
+TAM-99,Rohan Lahiri,8,B,32,"92 Lake Gardens, Kolkata",Mr. Soham Lahiri,Active
+TAM-100,Megha Sen,9,D,25,"164 Dumdum, Kolkata",Mrs. Ananya Sen,Active
